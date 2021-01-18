@@ -1,2 +1,2 @@
 # 100-days-of-code
-My codes done during 100 days of code challenge
+Codes done by me during 100 days of code challenge
